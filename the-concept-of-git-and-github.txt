@@ -1,0 +1,7 @@
+THE CONCEPT OF GIT AND GITHUB
+
+Git- Git is a branching model that is installed locally on the system that manages different versions of edits.
+     Git is a high-quality control system.
+
+GitHub- Is a service that uses git which is designed for a cloud-based hosting service and helps users to organize their projects.
+        It also a social networking site for software developers that offers various services that are helpful for non-programmer users.
