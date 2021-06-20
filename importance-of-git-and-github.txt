@@ -1,0 +1,8 @@
+IMPORTANCE OF GIT AND GITHUB
+
+GIT - Git is a maintained open-source project.
+      Git is user-friendly so the importance of it is it provides and features branches in the codebase.
+      It also an open-source control system that allows the user to record files that makes git collaboration easier.
+
+Github- It is a repository hosting service that users can restore and upload personal projects. 
+        The importance of GitHub is it gave a great boost to the open-source world where users can access it anywhere.
