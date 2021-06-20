@@ -1,0 +1,9 @@
+Name: Angela Nicole G. Gerero
+Course/Section/Block: Bachelor of Science in Information Technology 2D
+Age: 20
+Gender: Female
+Birthday: July 2, 2000
+Address: San Juan Bag-o
+Nationality: Pilipino
+Gmail: angelanicolegerero@gmail.com
+Contact Number: 0910569776
